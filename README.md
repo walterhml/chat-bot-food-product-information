@@ -1,5 +1,5 @@
 🍽️ **Bem-vindo ao FoodFinder!** 🍎🔍
-
+![image](/assets/img.png)
 O FoodFinder é seu assistente pessoal para descobrir informações sobre alimentos. Ele pode fornecer detalhes sobre produtos, ingredientes, informações nutricionais e muito mais. Veja como usá-lo:
 
 **Buscar um Produto por Nome:**
