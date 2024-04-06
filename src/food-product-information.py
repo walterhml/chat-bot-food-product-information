@@ -2,7 +2,8 @@ import telebot
 import requests
 
 # Inicialização do bot
-bot = telebot.TeleBot("7188266986:AAFNu6J_uokHFpfF6n5y8nDTH6Miq5LSLkQ")
+bot = telebot.TeleBot("7188266986:AAFNu6J_uokHFpfF6n5y8nDTH6Miq5LSLkQ834y833233")
+chave de token invalido para segurança do programa
 
 # Comando para mostrar o menu principal
 @bot.message_handler(func=['start', 'ajuda'])
